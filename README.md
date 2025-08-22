@@ -112,3 +112,9 @@ Este ejercicio tiene como objetivo que aprendas el flujo de trabajo de colaborac
 6.  **Crea una `Pull Request` (PR)**
     
     Ve a tu repositorio en GitHub y crea una **`Pull Request`** para solicitar que tus cambios se fusionen con la rama principal del repositorio de la clase: `polargentino/loremipsum`.
+
+
+nombre: mateo
+apellido: berardo
+nacionalidad: argentina
+gmail: mateoberardo2008@gmail.com
