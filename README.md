@@ -1,4 +1,4 @@
-# Programa de formación profesional para la ecuela n°637 Domingo Cullen 
+# Programa de formación profesional para la escuela n°637 Domingo Cullen 
 ##*Nombre del taller: Diseño web*
 
 Aquí tienes la explicación con un formato profesional y los gráficos que solicitaste. Puedes copiar este texto directamente y pegarlo en un archivo .md para que se vea perfectamente.
