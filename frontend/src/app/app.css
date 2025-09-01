@@ -1,0 +1,31 @@
+.footer-luxury {
+  background: linear-gradient(90deg, #232526 0%, #414345 100%);
+  color: #fff;
+  padding: 40px 0 20px 0;
+  text-align: center;
+  box-shadow: 0 -4px 24px rgba(0,0,0,0.2);
+  border-top-left-radius: 32px;
+  border-top-right-radius: 32px;
+}
+.footer-luxury .footer-content h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 8px;
+  letter-spacing: 2px;
+}
+.footer-luxury .footer-content p {
+  font-size: 1.1rem;
+  margin-bottom: 16px;
+}
+.footer-luxury .social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 12px;
+}
+.footer-luxury .social-icons a {
+  transition: transform 0.2s;
+}
+.footer-luxury .social-icons a:hover {
+  transform: scale(1.2);
+}
